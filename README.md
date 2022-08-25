@@ -27,7 +27,7 @@ Clique em um personagem para detalhar.
 
 ## 💻 Demo
 
-<a href="https://bb-app-teal.vercel.app/" target="_blank">https://bb-app-teal.vercel.app//movie</a>
+<a href="https://bb-app-teal.vercel.app/" target="_blank">https://bb-app-teal.vercel.app</a>
 
 <br />
 
